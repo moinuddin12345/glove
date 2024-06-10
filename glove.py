@@ -8,7 +8,7 @@ from functools import partial
 import logging
 from math import log
 import os.path
-import cPickle as pickle
+import pickle
 from random import shuffle
 
 import msgpack
